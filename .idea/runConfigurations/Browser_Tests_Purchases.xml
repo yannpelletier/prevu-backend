@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Browser Tests Purchases" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner class="Tests\Browser\PurchaseTest" configuration_file="$PROJECT_DIR$/phpunit.dusk.xml" file="$PROJECT_DIR$/tests/Browser/PurchaseTest.php" method="test_purchase_valid" scope="Class" use_alternative_configuration_file="true" />
+    <method v="2" />
+  </configuration>
+</component>

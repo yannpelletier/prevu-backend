@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/webServers.xml
+/watcherTasks.xml
+/PrevU_backend.iml
+/modules.xml
+/deployment.xml
+/httpRequests/

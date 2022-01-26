@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Browser Tests Products" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner class="Tests\Browser\ProductsTest" configuration_file="$PROJECT_DIR$/phpunit.dusk.xml" file="$PROJECT_DIR$/tests/Browser/ProductsTest.php" method="test_add_one_product_valid" scope="Class" use_alternative_configuration_file="true" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Browser Tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+    <TestRunner configuration_file="$PROJECT_DIR$/phpunit.dusk.xml" directory="$PROJECT_DIR$/tests/Browser" use_alternative_configuration_file="true" />
+    <method v="2" />
+  </configuration>
+</component>
